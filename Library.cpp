@@ -5,6 +5,7 @@ Juan Casian
 */
 #include "Library.hh"
 #include <iostream>
+#include <vector>
 
 using namespace std;
 
